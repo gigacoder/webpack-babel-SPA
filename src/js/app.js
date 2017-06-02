@@ -1,7 +1,6 @@
 import '../css/main.css';
 import '../css/input-elements.css';
 
-import '../css/bootstrap.min.css';
 
 import {secretParagraph, secretButton } from "./dom-loader"
 
